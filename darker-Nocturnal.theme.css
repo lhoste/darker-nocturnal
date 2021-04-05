@@ -1,0 +1,27 @@
+/**
+* @name "Better Nocturnal"
+* @version Auto Update
+* @description "modified by Lhoste - Based on the Nocturnal theme"
+* @author Lhoste#0001
+*/
+@import url("https://codedotspectra.github.io/themes/nocturnal/importCSS/core.css");
+/**@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");**/
+:root {
+--primary: #19191b;
+--primaryGradient2: #19191b;
+--backgroundDark: #19191b;
+--backgroundDarker: #101011;
+--home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
+}
+
+.wrapper-3WhCwL{
+    color: #FFFFFF !important;
+}
+
+.wrapper-1rqM3x, .emojiPicker-3PwZFl {height: 700px; width: 700px}
+
+
+
+
+----------------------------------------------------------------------------
